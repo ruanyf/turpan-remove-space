@@ -1,0 +1,25 @@
+{
+  "name": "turpan-remove-space",
+  "version": "1.0.0",
+  "description": "remove the space between English word and Chinese characters in markdown files",
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "bin": {
+    "trs": "bin/trs.js"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Ruan Yifeng",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^3.0.1",
+    "markdown-it-for-inline": "^0.1.1",
+    "turpan": "^0.2.6",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {
+    "tape": "^4.7.0"
+  }
+}
