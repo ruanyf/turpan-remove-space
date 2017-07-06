@@ -11,6 +11,11 @@
   "keywords": [
     "markdown"
   ],
+  "homepage": "https://github.com/ruanyf/turpan-remove-space",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanyf/turpan-remove-space.git"
+  },
   "author": "Ruan Yifeng",
   "license": "ISC",
   "dependencies": {
